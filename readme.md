@@ -1,10 +1,10 @@
-# Fox Test
+# TheFoxTest
 ## Usage
 
 Go in your ft_containers' directory:
 
 ```bash
-git clone https://github.com/mli42/containers_test.git
+git clone https://github.com/ayoubHam2000/ft_containers_fox_test.git
 ```
 
 Put this into your MakeFile 
@@ -29,4 +29,11 @@ int main(){
 The config file
 ```
 ./config.h
+```
+Other Testers
+
+```bash
+https://github.com/divinepet/ft_containers-unit-test.git
+https://github.com/Mikastiv/ft_containers-terminator.git
+https://github.com/mamoussa405/ft_containers_tests.git
 ```
